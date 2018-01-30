@@ -1,4 +1,4 @@
-baseURL = "http://hugoaflevering.theherman.dk/"
+baseURL = "http://https://github.com/hermansens/hugoaflevering.git/"
 languageCode = "en-us"
 title = "Welcome to my travel blog"
 theme = "minimal"
