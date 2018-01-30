@@ -1,3 +1,27 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Welcome to my travel blog"
+theme = "minimal"
+
+
+
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+[[menu.main]]
+    url = "/contact/"
+    name = "Contact"
+    weight = 3
+
+[[menu.main]]
+    url = "/portfolio/"
+    name = "Portfolio"
+    weight = 4
