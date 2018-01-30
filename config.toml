@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://hugoaflevering.theherman.dk/"
 languageCode = "en-us"
 title = "Welcome to my travel blog"
 theme = "minimal"
